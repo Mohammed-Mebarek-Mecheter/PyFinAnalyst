@@ -31,8 +31,6 @@ The project adheres to a structured organization, facilitating ease of navigatio
 - **requirements.txt**: File containing the required dependencies for running the project.
 - **README.md**: Comprehensive documentation providing an overview of the project, its structure, and usage instructions.
 
-![Moscow Housing Dashboard](Moscow Housing Dashboard.PNG)
-
 ## Analysis Process
 
 The project undertook a systematic analysis process, comprising the following steps:
@@ -60,6 +58,9 @@ To utilize the project:
 
 1. Install the required dependencies using `pip install -r requirements.txt`.
 2. Run `dashboard.py` to visualize scatter and histogram plots using Vizro and open your browser on `localhost:8050`.
+
+![Moscow Housing Dashboard](Moscow_Housing_Dashboard.PNG)
+
 3. Access trained models from the `model/` directory for predictions.
 4. Explore datasets in the `data/` directory for further analysis.
 
